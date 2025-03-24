@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JeLGRwmmaN8=",
+  "dgSpecHash": "N1USWvIDMdE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daria\\source\\GreenInvestCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\GreenInvestmentCalc.Client.csproj",
+  "projectFilePath": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\GreenInvestmentCalc.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daria\\.nuget\\packages\\blazorcharts\\0.4.108\\blazorcharts.0.4.108.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.12\\microsoft.aspnetcore.authorization.8.0.12.nupkg.sha512",

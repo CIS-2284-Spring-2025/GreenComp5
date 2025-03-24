@@ -2120,6 +2120,7 @@
         "dependencies": {
           "BlazorCharts": "0.4.108",
           "GreenInvestmentCalc.Client": "1.0.0",
+          "Microsoft.AspNetCore.Components": "8.0.12",
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "8.0.12",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "8.0.12",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.12",
@@ -2141,6 +2142,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "BlazorCharts": "0.4.108",
+          "Microsoft.AspNetCore.Components": "8.0.12",
           "Microsoft.AspNetCore.Components.WebAssembly": "8.0.12",
           "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "8.0.12",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.12"
@@ -5092,6 +5094,7 @@
       "GreenInvestmentCalc >= 1.0.0",
       "GreenInvestmentCalc.Client >= 1.0.0",
       "MSTest >= 3.6.4",
+      "Microsoft.AspNetCore.Components >= 8.0.12",
       "Microsoft.EntityFrameworkCore.Sqlite >= 8.0.12",
       "Microsoft.NET.Test.Sdk >= 17.12.0"
     ]
@@ -5103,11 +5106,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daria\\source\\GreenInvestCalc\\GreenInvestmentCalc\\InvestmentCalcTests\\InvestmentCalcTests.csproj",
+      "projectUniqueName": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\InvestmentCalcTests\\InvestmentCalcTests.csproj",
       "projectName": "InvestmentCalcTests",
-      "projectPath": "C:\\Users\\Daria\\source\\GreenInvestCalc\\GreenInvestmentCalc\\InvestmentCalcTests\\InvestmentCalcTests.csproj",
+      "projectPath": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\InvestmentCalcTests\\InvestmentCalcTests.csproj",
       "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daria\\source\\GreenInvestCalc\\GreenInvestmentCalc\\InvestmentCalcTests\\obj\\",
+      "outputPath": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\InvestmentCalcTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5128,11 +5131,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Daria\\source\\GreenInvestCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\GreenInvestmentCalc.Client.csproj": {
-              "projectPath": "C:\\Users\\Daria\\source\\GreenInvestCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\GreenInvestmentCalc.Client.csproj"
+            "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\GreenInvestmentCalc.Client.csproj": {
+              "projectPath": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\GreenInvestmentCalc.Client.csproj"
             },
-            "C:\\Users\\Daria\\source\\GreenInvestCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj": {
-              "projectPath": "C:\\Users\\Daria\\source\\GreenInvestCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj"
+            "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj": {
+              "projectPath": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj"
             }
           }
         }
@@ -5160,6 +5163,10 @@
           "MSTest": {
             "target": "Package",
             "version": "[3.6.4, )"
+          },
+          "Microsoft.AspNetCore.Components": {
+            "target": "Package",
+            "version": "[8.0.12, )"
           },
           "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gFI1VqU33sU=",
+  "dgSpecHash": "HNYxQapavOI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daria\\source\\GreenInvestCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj",
+  "projectFilePath": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daria\\.nuget\\packages\\blazorcharts\\0.4.108\\blazorcharts.0.4.108.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

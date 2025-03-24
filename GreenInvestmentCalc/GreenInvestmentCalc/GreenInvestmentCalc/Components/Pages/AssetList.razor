@@ -121,17 +121,20 @@
 
 	private void AddAsset()
 	{
+		Console.WriteLine("Navigating to Add Asset page.");
 		Navigation.NavigateTo("/Asset-Details");
 	}
 
 	private void EditViewAsset(int id)
 	{
 		//Navigate to edit page
+		Console.WriteLine($"EditViewAsset called with ID: {id}");
 		Navigation.NavigateTo($"/Asset-Details/{id}");
 	}
 
 	private void DeleteAsset(int id)
 	{
+		Console.WriteLine($"Deleting asset with ID: {id}");
 		//Delete the aset from the list
 		Assets.RemoveAll(a => a.Id == id);
 	}

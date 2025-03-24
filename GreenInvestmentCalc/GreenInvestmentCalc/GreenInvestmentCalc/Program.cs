@@ -1,6 +1,7 @@
 using GreenInvestmentCalc.Client.Pages;
 using GreenInvestmentCalc.Components;
 using GreenInvestmentCalc.Components.Account;
+using GreenInvestmentCalc.Components.Models;
 using GreenInvestmentCalc.Data;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Identity;
@@ -43,6 +44,8 @@ namespace GreenInvestmentCalc
                 .AddDefaultTokenProviders();
 
             builder.Services.AddSingleton<IEmailSender<ApplicationUser>, IdentityNoOpEmailSender>();
+
+            builder.Services.AddScoped<Asset>();
 
             var app = builder.Build();
 

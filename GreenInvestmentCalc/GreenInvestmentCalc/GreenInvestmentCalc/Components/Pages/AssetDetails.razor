@@ -3,6 +3,7 @@
 @*File: AssetDetails.razor*@
 
 @page "/Asset-Details/{Id:int?}"
+@inject NavigationManager Navigation
 @inject Asset Asset
 @using System
 @using System.Collections.Generic
@@ -71,6 +72,7 @@
 </table>
 
 @code {
+	// private Asset Asset { get; set; } = new Asset();
 	[Parameter] public int? Id { get; set; }
 	private List<YearlyDepreciation> DepreciationValues = new();
 

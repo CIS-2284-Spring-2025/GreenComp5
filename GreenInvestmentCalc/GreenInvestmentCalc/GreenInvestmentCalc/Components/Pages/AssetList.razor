@@ -4,7 +4,9 @@
 
 @page "/assets"
 @inject NavigationManager Navigation
+@inject ApplicationDbContext Database
 @using GreenInvestmentCalc.Components.Models
+@using GreenInvestmentCalc.Data
 
 <h3>Assets</h3>
 
@@ -97,20 +99,9 @@
 	protected override void OnInitialized()
 	{
 		// Ensure the lists are always initialized
+		Assets = Database.Asset.ToList();
 		Assets ??= new List<Asset>();
 		InventoryValues ??= new List<YearlyInventoryValue>();
-		if (Assets.Count == 0)
-		{
-			Assets.Add(new Asset
-			{
-			Id = 1, 
-			Name = "Laptop", 
-			EntryDate = DateTime.Now.AddYears(-3), 
-			ExitDate = DateTime.Now, 
-			StartingValue = 1500, 
-			SalvageValue = 300
-			});
-		}
 
 		if (InventoryValues.Count == 0)
 		{

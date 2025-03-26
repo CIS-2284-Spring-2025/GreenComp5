@@ -5,10 +5,12 @@
 @page "/Asset-Details/{Id:int?}"
 @inject NavigationManager Navigation
 @inject Asset Asset
+@inject ApplicationDbContext Database
 @using System
 @using System.Collections.Generic
 @using System.ComponentModel.DataAnnotations
 @using GreenInvestmentCalc.Components.Models
+@using GreenInvestmentCalc.Data
 @using Microsoft.AspNetCore.Components.Forms
 
 <h3>AssetDetails</h3>
@@ -21,33 +23,35 @@
 	<div class="form-group">
 		<label for="Name">Name</label>
 		<InputText id="Name" class="form-control" @bind-Value="Asset.Name" />
-		
+
 	</div>
 
 	<div class="form-group">
 		<label for="EntryDate">Entry Date</label>
 		<InputDate id="EntryDate" class="form-control" @bind-Value="Asset.EntryDate" />
-		
+
 	</div>
 
 	<div class="form-group">
 		<label for="ExitDate">Exit Date</label>
 		<InputDate id="ExitDate" class="form-control" @bind-Value="Asset.ExitDate" />
-		
+
 	</div>
 
 	<div class="form-group">
 		<label for="StartingValue">Starting Value</label>
 		<InputNumber id="StartingValue" class="form-control" @bind-Value="Asset.StartingValue" />
-		
+
 	</div>
 
 	<div class="form-group">
 		<label for="SalvageValue">Salvage Value</label>
 		<InputNumber id="SalvageValue" class="form-control" @bind-Value="Asset.SalvageValue" />
-		
+
 	</div>
-	
+
+	<button class="btn btn-success" @onclick="SaveAsset">Save Asset</button>
+	@* <button class="btn btn-danger" @onclick="DeleteAsset">Delete</button> *@
 </EditForm>
 
 
@@ -90,7 +94,7 @@
 					SalvageValue = 0
 				};
 		}
-		CalculateDepreciation();
+		//CalculateDepreciation();
 	}
 
 	private void CalculateDepreciation()
@@ -119,6 +123,8 @@
 	{
 		//Save Asset logic (e.g., database)
 		CalculateDepreciation();
+		Database.Add(Asset);
+		Database.SaveChanges();
 	}
 
 	public class YearlyDepreciation
@@ -126,4 +132,11 @@
 		public int Year { get; set; }
 		public double Value { get; set; }
 	}
+
+	// private void DeleteAsset(int id)
+	// {
+	// 	Console.WriteLine($"Deleting asset with ID: {id}");
+	// 	//Delete the aset from the list
+	// 	Assets.RemoveAll(a => a.Id == id);
+	// }
 }

@@ -1,3 +1,4 @@
+using GreenInvestmentCalc.Components.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
@@ -6,6 +7,7 @@ namespace GreenInvestmentCalc.Data
 {
     public class ApplicationDbContext : DbContext
     {
+        public DbSet<Asset> Asset { get; set; }
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> context) : base(context)
         {
 

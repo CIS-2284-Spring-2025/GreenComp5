@@ -2201,9 +2201,6 @@ C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenIn
 C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\compressed\v8p5hq46yk-tptq2av103.gz
 C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\compressed\1i757s6zub-lfu7j35m59.gz
 C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\compressed\8iwvpfjf6s-oyz0vx2fzb.gz
-C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\compressed\d62zp6oidy-imm95lomp2.gz
-C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\compressed\c1qu6iot0j-3i18qs1veb.gz
-C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\compressed\7jgg2n7ogu-pgp43tn7pi.gz
 C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -2219,3 +2216,6 @@ C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenIn
 C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\refint\GreenInvestmentCalc.Client.dll
 C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\GreenInvestmentCalc.Client.pdb
 C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\ref\GreenInvestmentCalc.Client.dll
+C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\compressed\d62zp6oidy-nvrdev2lxo.gz
+C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\compressed\c1qu6iot0j-tzy5xlecqk.gz
+C:\Users\Daria\source\GreenComp5\GreenInvestmentCalc\GreenInvestmentCalc\GreenInvestmentCalc.Client\obj\Debug\net8.0\compressed\7jgg2n7ogu-45k8isvms2.gz

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenInvestmentCalc.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5409879eb81e9893988f87565f4ab500f00d5cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c8cb5ea2b7e6087b13c119bfb0154fadd77217b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenInvestmentCalc.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenInvestmentCalc.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

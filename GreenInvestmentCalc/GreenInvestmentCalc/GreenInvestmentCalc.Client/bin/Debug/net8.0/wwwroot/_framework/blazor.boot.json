@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GreenInvestmentCalc.Client",
   "resources": {
-    "hash": "sha256-r/mDRqFj/1iR7toAQaFKz8oLOCRy+IyFRluOkgnPBuQ=",
+    "hash": "sha256-ese05YZ3YBU5tUKM++8kBmjRYWNqGycY5NDCcM/uAK8=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
     },
@@ -223,10 +223,10 @@
       "mscorlib.wasm": "sha256-RAf5jgXLg+06C4tJ3CabxAZaVjCN2/+E6fxRjRN8yHk=",
       "netstandard.wasm": "sha256-KCAE8RQwTurP5pGnGF819qf9sK++2O0rXzt6tOjlfi8=",
       "System.Private.CoreLib.wasm": "sha256-LQqLbHgeEX4HONx7GwIxGgmzIXP6n2OPxqnq+/4Tyqk=",
-      "GreenInvestmentCalc.Client.wasm": "sha256-ynM65Kn9ytdDhVQvxqTziqm3gwEA0/bTK97vVIRlCL0="
+      "GreenInvestmentCalc.Client.wasm": "sha256-Y9jE+Xr3pEtc1twO7gA9eubx3thqxYWz16gLAMh5L/8="
     },
     "pdb": {
-      "GreenInvestmentCalc.Client.pdb": "sha256-ZSwzhkHVWVPKe+SW22SrAiWOBK3kj89W//NBreSo4C8="
+      "GreenInvestmentCalc.Client.pdb": "sha256-l6qm/NxGQEarkn8XU251gy7AYsRn4pqxLMPDy1yFFJw="
     }
   },
   "cacheBootResources": true,

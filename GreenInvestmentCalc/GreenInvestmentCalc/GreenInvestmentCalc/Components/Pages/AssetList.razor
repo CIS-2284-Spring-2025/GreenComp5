@@ -100,7 +100,7 @@
 	{
 		// Ensure the lists are always initialized
 		Assets = Database.Asset.ToList();
-		Assets ??= new List<Asset>();
+		//Assets ??= new List<Asset>();
 		InventoryValues ??= new List<YearlyInventoryValue>();
 
 		if (InventoryValues.Count == 0)

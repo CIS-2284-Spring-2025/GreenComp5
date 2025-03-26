@@ -51,7 +51,6 @@
 	</div>
 
 	<button class="btn btn-success" @onclick="SaveAsset">Save Asset</button>
-	@* <button class="btn btn-danger" @onclick="DeleteAsset">Delete</button> *@
 </EditForm>
 
 
@@ -94,18 +93,18 @@
 					SalvageValue = 0
 				};
 		}
-		//CalculateDepreciation();
+		
 	}
 
 	private void CalculateDepreciation()
 	{
+		int totalYears = Asset.ExitDate.Year - Asset.EntryDate.Year;
+		double annualDepreciation = (Asset.StartingValue - Asset.SalvageValue) / totalYears;
+
 		if (Asset.EntryDate >= Asset.ExitDate)
 		{
 			throw new ArgumentException("Exit must be later than Entry Date.");
 		}
-
-		int totalYears = Asset.ExitDate.Year - Asset.EntryDate.Year;
-		double annualDepreciation = (Asset.StartingValue - Asset.SalvageValue) / totalYears;
 
 		DepreciationValues = new();
 		for (int i = 0; i <= totalYears; i++)
@@ -121,10 +120,20 @@
 
 	private void SaveAsset()
 	{
-		//Save Asset logic (e.g., database)
-		CalculateDepreciation();
-		Database.Add(Asset);
-		Database.SaveChanges();
+		try
+		{
+			//Save Asset logic (e.g., database)
+			CalculateDepreciation();
+			Database.Asset.Add(Asset);
+			Database.SaveChanges();
+
+			// Navigate back to the previous page
+			Navigation.NavigateTo("/assets");
+		}
+		catch(Exception ex)
+		{
+			Console.WriteLine($"ERROR! Please try saving your asset again.");
+		}
 	}
 
 	public class YearlyDepreciation
@@ -132,11 +141,4 @@
 		public int Year { get; set; }
 		public double Value { get; set; }
 	}
-
-	// private void DeleteAsset(int id)
-	// {
-	// 	Console.WriteLine($"Deleting asset with ID: {id}");
-	// 	//Delete the aset from the list
-	// 	Assets.RemoveAll(a => a.Id == id);
-	// }
 }

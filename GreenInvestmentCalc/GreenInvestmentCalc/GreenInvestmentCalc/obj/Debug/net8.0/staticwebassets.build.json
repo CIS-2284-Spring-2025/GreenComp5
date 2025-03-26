@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cae4o9MGcPYo39DePrSFgXonZVbxrdCS5s50A+X3JaY=",
+  "Hash": "1C3RIkA46e/PWAAbswySuu9EN3/ZHDTUEkQLAlE+9E4=",
   "Source": "GreenInvestmentCalc",
   "BasePath": "_content/GreenInvestmentCalc",
   "Mode": "Default",
@@ -92,8 +92,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "pgp43tn7pi",
-      "Integrity": "6QB0E23/Uuwcr1vQ59n2JsJuAm3bJ1vdzPLR3rEwX40=",
+      "Fingerprint": "45k8isvms2",
+      "Integrity": "CDYiFZ10azeEI7XZIkNvw17TSnwRCh53rguoM8UDSa8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -323,8 +323,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "3i18qs1veb",
-      "Integrity": "ZSwzhkHVWVPKe+SW22SrAiWOBK3kj89W//NBreSo4C8=",
+      "Fingerprint": "tzy5xlecqk",
+      "Integrity": "l6qm/NxGQEarkn8XU251gy7AYsRn4pqxLMPDy1yFFJw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\GreenInvestmentCalc.Client.pdb"
@@ -344,8 +344,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "imm95lomp2",
-      "Integrity": "ynM65Kn9ytdDhVQvxqTziqm3gwEA0/bTK97vVIRlCL0=",
+      "Fingerprint": "nvrdev2lxo",
+      "Integrity": "Y9jE+Xr3pEtc1twO7gA9eubx3thqxYWz16gLAMh5L/8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\GreenInvestmentCalc.Client.wasm"
@@ -5832,7 +5832,7 @@
       "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\7hsqwuwurd-l8wjdrie62.gz"
     },
     {
-      "Identity": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\7jgg2n7ogu-pgp43tn7pi.gz",
+      "Identity": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\7jgg2n7ogu-45k8isvms2.gz",
       "SourceId": "GreenInvestmentCalc.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -5846,11 +5846,11 @@
       "RelatedAsset": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pfpjxjgamh",
-      "Integrity": "e4tgwU/MaTPDQUzwSz1t7N0e/mxjrfDT78nyjtMveG8=",
+      "Fingerprint": "6z3nsl2bzx",
+      "Integrity": "HpzApGGxyGOGClRcA2c7jVzKMmogwocO0vMdo+wzLq8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\7jgg2n7ogu-pgp43tn7pi.gz"
+      "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\7jgg2n7ogu-45k8isvms2.gz"
     },
     {
       "Identity": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\7og2dqvbkx-hdfb72eoac.gz",
@@ -6546,7 +6546,7 @@
       "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\bnfq34q3ba-4wtf73xt7w.gz"
     },
     {
-      "Identity": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\c1qu6iot0j-3i18qs1veb.gz",
+      "Identity": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\c1qu6iot0j-tzy5xlecqk.gz",
       "SourceId": "GreenInvestmentCalc.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -6560,11 +6560,11 @@
       "RelatedAsset": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\GreenInvestmentCalc.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1roe08we7o",
-      "Integrity": "zRSQ8xdcGqpir0OyAwM/RHnuLW9zx5F9igu4MkTGSEU=",
+      "Fingerprint": "i4ynzj1zdz",
+      "Integrity": "ggvXn9xH1HJupn2DgXdsCwEyH+8WbfIpc7S7UD5aUow=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\c1qu6iot0j-3i18qs1veb.gz"
+      "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\c1qu6iot0j-tzy5xlecqk.gz"
     },
     {
       "Identity": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\c852ez6015-bfowzmtc85.gz",
@@ -6672,7 +6672,7 @@
       "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\cvtjwejpq1-25gyeazbn2.gz"
     },
     {
-      "Identity": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\d62zp6oidy-imm95lomp2.gz",
+      "Identity": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\d62zp6oidy-nvrdev2lxo.gz",
       "SourceId": "GreenInvestmentCalc.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -6686,11 +6686,11 @@
       "RelatedAsset": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\GreenInvestmentCalc.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "m633vcculf",
-      "Integrity": "3qENMwOhEo8MOF5qbbs5OEIkqUFTZs8d12j0Yao+91o=",
+      "Fingerprint": "6yizw1o997",
+      "Integrity": "rs4m+80K4rNk95GeqFZOox/azg1e/Hlep5+yI5D2hq8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\d62zp6oidy-imm95lomp2.gz"
+      "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\d62zp6oidy-nvrdev2lxo.gz"
     },
     {
       "Identity": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\dn0s8by1ym-etpmz9ntmu.gz",
@@ -9584,28 +9584,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6QB0E23/Uuwcr1vQ59n2JsJuAm3bJ1vdzPLR3rEwX40=\""
+          "Value": "\"CDYiFZ10azeEI7XZIkNvw17TSnwRCh53rguoM8UDSa8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 21:36:41 GMT"
+          "Value": "Wed, 26 Mar 2025 20:34:56 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6QB0E23/Uuwcr1vQ59n2JsJuAm3bJ1vdzPLR3rEwX40="
+          "Value": "sha256-CDYiFZ10azeEI7XZIkNvw17TSnwRCh53rguoM8UDSa8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\7jgg2n7ogu-pgp43tn7pi.gz",
+      "AssetFile": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\7jgg2n7ogu-45k8isvms2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000105152471"
+          "Quality": "0.000105130362"
         }
       ],
       "ResponseHeaders": [
@@ -9623,15 +9623,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9509"
+          "Value": "9511"
         },
         {
           "Name": "ETag",
-          "Value": "\"e4tgwU/MaTPDQUzwSz1t7N0e/mxjrfDT78nyjtMveG8=\""
+          "Value": "\"HpzApGGxyGOGClRcA2c7jVzKMmogwocO0vMdo+wzLq8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 21:32:03 GMT"
+          "Value": "Mon, 24 Mar 2025 21:36:41 GMT"
         },
         {
           "Name": "Vary",
@@ -9643,19 +9643,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6QB0E23/Uuwcr1vQ59n2JsJuAm3bJ1vdzPLR3rEwX40=\""
+          "Value": "W/\"CDYiFZ10azeEI7XZIkNvw17TSnwRCh53rguoM8UDSa8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6QB0E23/Uuwcr1vQ59n2JsJuAm3bJ1vdzPLR3rEwX40="
+          "Value": "sha256-CDYiFZ10azeEI7XZIkNvw17TSnwRCh53rguoM8UDSa8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\7jgg2n7ogu-pgp43tn7pi.gz",
+      "AssetFile": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\7jgg2n7ogu-45k8isvms2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9672,7 +9672,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9509"
+          "Value": "9511"
         },
         {
           "Name": "Content-Type",
@@ -9680,11 +9680,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e4tgwU/MaTPDQUzwSz1t7N0e/mxjrfDT78nyjtMveG8=\""
+          "Value": "\"HpzApGGxyGOGClRcA2c7jVzKMmogwocO0vMdo+wzLq8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 21:32:03 GMT"
+          "Value": "Mon, 24 Mar 2025 21:36:41 GMT"
         },
         {
           "Name": "Vary",
@@ -9694,7 +9694,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-e4tgwU/MaTPDQUzwSz1t7N0e/mxjrfDT78nyjtMveG8="
+          "Value": "sha256-HpzApGGxyGOGClRcA2c7jVzKMmogwocO0vMdo+wzLq8="
         }
       ]
     },
@@ -11091,28 +11091,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZSwzhkHVWVPKe+SW22SrAiWOBK3kj89W//NBreSo4C8=\""
+          "Value": "\"l6qm/NxGQEarkn8XU251gy7AYsRn4pqxLMPDy1yFFJw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 21:36:40 GMT"
+          "Value": "Wed, 26 Mar 2025 20:34:55 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZSwzhkHVWVPKe+SW22SrAiWOBK3kj89W//NBreSo4C8="
+          "Value": "sha256-l6qm/NxGQEarkn8XU251gy7AYsRn4pqxLMPDy1yFFJw="
         }
       ]
     },
     {
       "Route": "_framework/GreenInvestmentCalc.Client.pdb",
-      "AssetFile": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\c1qu6iot0j-3i18qs1veb.gz",
+      "AssetFile": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\c1qu6iot0j-tzy5xlecqk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000077875555"
+          "Quality": "0.000077869491"
         }
       ],
       "ResponseHeaders": [
@@ -11130,15 +11130,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12840"
+          "Value": "12841"
         },
         {
           "Name": "ETag",
-          "Value": "\"zRSQ8xdcGqpir0OyAwM/RHnuLW9zx5F9igu4MkTGSEU=\""
+          "Value": "\"ggvXn9xH1HJupn2DgXdsCwEyH+8WbfIpc7S7UD5aUow=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 21:32:02 GMT"
+          "Value": "Mon, 24 Mar 2025 21:36:40 GMT"
         },
         {
           "Name": "Vary",
@@ -11150,19 +11150,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZSwzhkHVWVPKe+SW22SrAiWOBK3kj89W//NBreSo4C8=\""
+          "Value": "W/\"l6qm/NxGQEarkn8XU251gy7AYsRn4pqxLMPDy1yFFJw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZSwzhkHVWVPKe+SW22SrAiWOBK3kj89W//NBreSo4C8="
+          "Value": "sha256-l6qm/NxGQEarkn8XU251gy7AYsRn4pqxLMPDy1yFFJw="
         }
       ]
     },
     {
       "Route": "_framework/GreenInvestmentCalc.Client.pdb.gz",
-      "AssetFile": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\c1qu6iot0j-3i18qs1veb.gz",
+      "AssetFile": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\c1qu6iot0j-tzy5xlecqk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11179,7 +11179,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12840"
+          "Value": "12841"
         },
         {
           "Name": "Content-Type",
@@ -11187,11 +11187,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zRSQ8xdcGqpir0OyAwM/RHnuLW9zx5F9igu4MkTGSEU=\""
+          "Value": "\"ggvXn9xH1HJupn2DgXdsCwEyH+8WbfIpc7S7UD5aUow=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 21:32:02 GMT"
+          "Value": "Mon, 24 Mar 2025 21:36:40 GMT"
         },
         {
           "Name": "Vary",
@@ -11201,7 +11201,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zRSQ8xdcGqpir0OyAwM/RHnuLW9zx5F9igu4MkTGSEU="
+          "Value": "sha256-ggvXn9xH1HJupn2DgXdsCwEyH+8WbfIpc7S7UD5aUow="
         }
       ]
     },
@@ -11228,28 +11228,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ynM65Kn9ytdDhVQvxqTziqm3gwEA0/bTK97vVIRlCL0=\""
+          "Value": "\"Y9jE+Xr3pEtc1twO7gA9eubx3thqxYWz16gLAMh5L/8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 21:32:03 GMT"
+          "Value": "Wed, 26 Mar 2025 20:34:55 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ynM65Kn9ytdDhVQvxqTziqm3gwEA0/bTK97vVIRlCL0="
+          "Value": "sha256-Y9jE+Xr3pEtc1twO7gA9eubx3thqxYWz16gLAMh5L/8="
         }
       ]
     },
     {
       "Route": "_framework/GreenInvestmentCalc.Client.wasm",
-      "AssetFile": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\d62zp6oidy-imm95lomp2.gz",
+      "AssetFile": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\d62zp6oidy-nvrdev2lxo.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000178189594"
+          "Quality": "0.000178157848"
         }
       ],
       "ResponseHeaders": [
@@ -11267,11 +11267,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5611"
+          "Value": "5612"
         },
         {
           "Name": "ETag",
-          "Value": "\"3qENMwOhEo8MOF5qbbs5OEIkqUFTZs8d12j0Yao+91o=\""
+          "Value": "\"rs4m+80K4rNk95GeqFZOox/azg1e/Hlep5+yI5D2hq8=\""
         },
         {
           "Name": "Last-Modified",
@@ -11287,19 +11287,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ynM65Kn9ytdDhVQvxqTziqm3gwEA0/bTK97vVIRlCL0=\""
+          "Value": "W/\"Y9jE+Xr3pEtc1twO7gA9eubx3thqxYWz16gLAMh5L/8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ynM65Kn9ytdDhVQvxqTziqm3gwEA0/bTK97vVIRlCL0="
+          "Value": "sha256-Y9jE+Xr3pEtc1twO7gA9eubx3thqxYWz16gLAMh5L/8="
         }
       ]
     },
     {
       "Route": "_framework/GreenInvestmentCalc.Client.wasm.gz",
-      "AssetFile": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\d62zp6oidy-imm95lomp2.gz",
+      "AssetFile": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.Client\\obj\\Debug\\net8.0\\compressed\\d62zp6oidy-nvrdev2lxo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11316,7 +11316,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5611"
+          "Value": "5612"
         },
         {
           "Name": "Content-Type",
@@ -11324,7 +11324,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3qENMwOhEo8MOF5qbbs5OEIkqUFTZs8d12j0Yao+91o=\""
+          "Value": "\"rs4m+80K4rNk95GeqFZOox/azg1e/Hlep5+yI5D2hq8=\""
         },
         {
           "Name": "Last-Modified",
@@ -11338,7 +11338,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3qENMwOhEo8MOF5qbbs5OEIkqUFTZs8d12j0Yao+91o="
+          "Value": "sha256-rs4m+80K4rNk95GeqFZOox/azg1e/Hlep5+yI5D2hq8="
         }
       ]
     },

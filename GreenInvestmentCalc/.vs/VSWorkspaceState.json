@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\GreenInvestmentCalc",
+    "\\GreenInvestmentCalc\\GreenInvestmentCalc",
+    "\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components",
+    "\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages",
     "\\InvestmentCalcTests"
   ],
-  "SelectedNode": "\\GreenInvestmentCalc.sln",
+  "SelectedNode": "\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetDetails.razor",
   "PreviewInSolutionExplorer": false
 }

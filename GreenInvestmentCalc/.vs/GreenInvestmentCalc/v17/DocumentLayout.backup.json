@@ -44,9 +44,10 @@
               "RelativeDocumentMoniker": "GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetList.razor",
               "ToolTip": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetList.razor",
               "RelativeToolTip": "GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetList.razor",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T21:32:45.986Z"
+              "WhenOpened": "2025-03-24T21:32:45.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -54,9 +55,9 @@
               "Title": "AssetDetails.razor",
               "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetDetails.razor",
               "RelativeDocumentMoniker": "GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetDetails.razor",
-              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetDetails.razor",
-              "RelativeToolTip": "GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetDetails.razor",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetDetails.razor*",
+              "RelativeToolTip": "GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetDetails.razor*",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAGkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-24T21:32:45.179Z",
               "EditorCaption": ""

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{908EAD79-58F4-4D46-8409-BA3427F2B5DA}|GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj|c:\\users\\daria\\source\\greencomp5\\greeninvestmentcalc\\greeninvestmentcalc\\greeninvestmentcalc\\components\\pages\\assetlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{908EAD79-58F4-4D46-8409-BA3427F2B5DA}|GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj|solutionrelative:greeninvestmentcalc\\greeninvestmentcalc\\components\\pages\\assetlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetDetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetDetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{908EAD79-58F4-4D46-8409-BA3427F2B5DA}|GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj|c:\\users\\daria\\source\\greencomp5\\greeninvestmentcalc\\greeninvestmentcalc\\greeninvestmentcalc\\components\\pages\\assetdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{908EAD79-58F4-4D46-8409-BA3427F2B5DA}|GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj|solutionrelative:greeninvestmentcalc\\greeninvestmentcalc\\components\\pages\\assetdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetList.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetList.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{908EAD79-58F4-4D46-8409-BA3427F2B5DA}|GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj|c:\\users\\daria\\source\\greencomp5\\greeninvestmentcalc\\greeninvestmentcalc\\greeninvestmentcalc\\components\\pages\\investmentcalculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{908EAD79-58F4-4D46-8409-BA3427F2B5DA}|GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj|solutionrelative:greeninvestmentcalc\\greeninvestmentcalc\\components\\pages\\investmentcalculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Models\\Asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Models\\Asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{908EAD79-58F4-4D46-8409-BA3427F2B5DA}|GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj|c:\\users\\daria\\source\\greencomp5\\greeninvestmentcalc\\greeninvestmentcalc\\greeninvestmentcalc\\components\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{908EAD79-58F4-4D46-8409-BA3427F2B5DA}|GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc.csproj|solutionrelative:greeninvestmentcalc\\greeninvestmentcalc\\components\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\InvestmentCalculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\InvestmentCalculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,33 +38,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AssetList.razor",
               "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetList.razor",
               "RelativeDocumentMoniker": "GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetList.razor",
               "ToolTip": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetList.razor",
               "RelativeToolTip": "GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetList.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T21:32:45.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T21:32:45.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AssetDetails.razor",
               "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetDetails.razor",
               "RelativeDocumentMoniker": "GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetDetails.razor",
               "ToolTip": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetDetails.razor",
               "RelativeToolTip": "GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\AssetDetails.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-24T21:32:45.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Asset.cs",
               "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Models\\Asset.cs",
               "RelativeDocumentMoniker": "GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Models\\Asset.cs",
@@ -76,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InvestmentCalculator.razor",
               "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenComp5\\GreenInvestmentCalc\\GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\InvestmentCalculator.razor",
               "RelativeDocumentMoniker": "GreenInvestmentCalc\\GreenInvestmentCalc\\Components\\Pages\\InvestmentCalculator.razor",
